@@ -1,0 +1,26 @@
+baseURL = "https://MuradIsayev.github.io/"
+locale = "en-us"
+title = "Murad Isayev"
+theme = "hugo-xmin"
+
+# XMin specific settings
+[params]
+  footer = "&copy; [Murad Isayev](https://muradisayev.me) 2026"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 2
+  [[menu.main]]
+    name = "Links"
+    url = "/links/"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 4
