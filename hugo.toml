@@ -17,10 +17,6 @@ theme = "hugo-xmin"
     url = "/now/"
     weight = 2
   [[menu.main]]
-    name = "Links"
-    url = "/links/"
-    weight = 3
-  [[menu.main]]
     name = "Blog"
     url = "/post/"
-    weight = 4
+    weight = 3
