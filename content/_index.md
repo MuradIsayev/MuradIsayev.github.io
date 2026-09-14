@@ -1,12 +1,13 @@
 ---
-title: "About Me"
+title: "Home"
 ---
-👋 Hello! I'm Murad Isayev.
+👋 Hello! It's nice to meet you. I'm **Murad Isayev**, and it's my tiny space on the web.
 
-I am a Software Engineer currently based in Fulda, Germany, pursuing my M.Sc. in Global Software Development at Fulda University of Applied Sciences. 
+I am a Software Engineer based in Central Germany.
+I love learning about technology and figuring out how things work under the hood, usually rubberducking with the lovely duck next to my keyboard. Obsessed with [Go](https://go.dev/), and my favorite IDE is [NeoVim](https://neovim.io/). Besides tech, I enjoy music, chess, working out and solo dating.
+You can learn more [about me](/about), and see I'm up to [*right now*](/now).
 
-My primary focus is engineering products and services that have a tangible, positive impact on people's everyday lives. I value clean code, minimal design, and highly performant systems.
+* [Email](mailto:isayev.murad@outlook.com)
+* [GitHub](https://github.com/MuradIsayev)
+* [LinkedIn](https://linkedin.com/in/muradisayev)
 
-* [Email](mailto:your.email@example.com)
-* [GitHub](https://github.com/muradIsa)
-* [LinkedIn](https://linkedin.com/in/yourprofile)

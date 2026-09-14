@@ -13,10 +13,14 @@ theme = "hugo-xmin"
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
     name = "Now"
     url = "/now/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Blog"
     url = "/post/"
-    weight = 3
+    weight = 4
