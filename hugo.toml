@@ -7,6 +7,9 @@ theme = "hugo-xmin"
 [params]
   footer = "&copy; [Murad Isayev](https://muradisayev.me) 2026"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
   [[menu.main]]
     name = "Home"
