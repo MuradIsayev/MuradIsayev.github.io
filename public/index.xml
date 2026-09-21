@@ -25,7 +25,7 @@
 				<link>http://localhost:1313/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;Hi, I&amp;rsquo;m Murad. I&amp;rsquo;m a Software Engineer based in Central Germany.&lt;/p&gt;&#xA;&lt;p&gt;I’ve always been the kind of person who needs to know how things work under the hood. I enjoy stripping away the magic of technology to figure out how systems operate, and most of my best debugging happens out loud, explaining the problem to the rubber duck sitting next to my monitor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;&#xA;&lt;p&gt;I focus heavily on backend development, keeping things simple, and staying completely keyboard-centric inside &lt;strong&gt;NeoVim&lt;/strong&gt;.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Hey, my name is Murad Isayev, and this page is all about me.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Master&amp;rsquo;s student in Global Software Development at &lt;a href=&#34;https://www.hs-fulda.de/en/&#34;&gt;Fulda University&lt;/a&gt;. I moved to Germany in October 2024, and I work at a bookstore to support myself.&#xA;Technically speaking, &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt; is my primary programming language right now for learning and building. In the past, I have worked extensively with Javascript/TypeScript (&lt;a href=&#34;https://nodejs.org/&#34;&gt;Node.js&lt;/a&gt;) with the focus on both backend and frontend. I have also written some Java and C from project to project. Other than that, I use &lt;a href=&#34;https://neovim.io/&#34;&gt;NeoVim&lt;/a&gt; (proud face) as my text editor.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>What I&#39;m Doing</title>

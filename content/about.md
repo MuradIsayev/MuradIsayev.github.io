@@ -2,13 +2,12 @@
 title: "About me"
 ---
 
-Hi, I'm Murad. I'm a Software Engineer based in Central Germany. 
+Hey, my name is Murad Isayev, and this page is all about me. 
 
-I’ve always been the kind of person who needs to know how things work under the hood. I enjoy stripping away the magic of technology to figure out how systems operate, and most of my best debugging happens out loud, explaining the problem to the rubber duck sitting next to my monitor.
+I'm a Master's student in Global Software Development at [Fulda University](https://www.hs-fulda.de/en/). I moved to Germany in October 2024, and I work at a bookstore to support myself.
+Technically speaking, [Go](https://go.dev/) is my primary programming language right now for learning and building. In the past, I have worked extensively with Javascript/TypeScript ([Node.js](https://nodejs.org/)) with the focus on both backend and frontend. I have also written some Java and C from project to project. Other than that, I use [NeoVim](https://neovim.io/) (proud face) as my text editor.
 
 ## Work Experience
-
-I focus heavily on backend development, keeping things simple, and staying completely keyboard-centric inside **NeoVim**. 
 
 **Software Engineer @ [Current Company Name]**  
 *Month Year – Present*  
