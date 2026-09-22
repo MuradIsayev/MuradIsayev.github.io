@@ -7,17 +7,22 @@ Hey, my name is Murad Isayev, and this page is all about me.
 I'm a Master's student in Global Software Development at [Fulda University](https://www.hs-fulda.de/en/). I moved to Germany in October 2024, and I work at a bookstore to support myself.
 Technically speaking, [Go](https://go.dev/) is my primary programming language right now for learning and building. In the past, I have worked extensively with Javascript/TypeScript ([Node.js](https://nodejs.org/)) with the focus on both backend and frontend. I have also written some Java and C from project to project. Other than that, I use [NeoVim](https://neovim.io/) (proud face) as my text editor.
 
-## Work Experience
 
-**Software Engineer @ [Current Company Name]**  
-*Month Year – Present*  
-Here, I am primarily writing **Go** to build [mention 1-2 things, e.g., scalable APIs, microservices, or backend systems]. My main focus is on [mention a specific problem you solve or something you enjoy about the role].
+## 💼 Work Experience
 
-**[Previous Role] @ [Previous Company Name]**  
-*Month Year – Month Year*  
-[Write 1-2 natural sentences about what you built or learned here. E.g., "Before my current role, I helped build X and got my hands dirty with Y and Z."]
+**Full Stack Developer @ [iLoyal](https://iloyal.app/)** *(May 2023 – Oct 2024)*  
+**Tech:** `Node.js` `NestJS` `React` `MySQL` `Redis`
 
-*(For the full corporate history, you can always check my [LinkedIn](https://linkedin.com/in/muradisayev).)*
+For a year and a half, I engineered and scaled a comprehensive **Restaurant POS platform** from the ground up. I built out the core product infrastructure, with the features like complete **authentication flows with 2FA** (SMS/Email), **role-based access (RBAC)**, real-time **sales dashboards**, and **zero-wait QR ordering** that completely digitized the dining experience.
+
+Following our successful launch across Azerbaijan, **the platform expanded into the German market**, bringing smart table management to partners like *Pano Ravensburg* and *Cafe Docia*. 
+
+*(For the full corporate history, you can always check my [LinkedIn](https://linkedin.com/in/muradisayev)).*
+<!-- * **Product Launch & Delivery:** Played a key role in the **official platform launch**, contributing to multiple successful release cycles under strict deadlines. The system is now **widely used by cafes and restaurants across Azerbaijan**. -->
+<!-- * **German Expansion:** Drove the technical rollout into the **German market** (partnering with *Pano Ravensburg* and *Cafe Docia*), deploying **zero-wait QR ordering** and smart table management. -->
+<!-- * **Core Engineering:** Architected a secure B2B registration flow with **Role-Based Access Control (RBAC)** and built interactive, **real-time sales dashboards**. -->
+<!-- * **Feature Optimization:** Implemented automated discount schedulers and drag-and-drop menu prioritization to help businesses **dynamically boost sales**. -->
+<!---->
 
 
 ## Projects
