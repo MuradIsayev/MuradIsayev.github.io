@@ -52,12 +52,12 @@ I have done tons of projects over the years. Here are some of my favourites:
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Go-Serve** | A blazing-fast, lightweight CLI web server for local development. Built because I wanted a zero-config way to serve static files instantly. | [GitHub](https://github.com/) , [Docs](https://github.com/) |
-| **Nvim-Duck** | A NeoVim plugin that puts an ASCII rubber duck in your status line. It changes expressions based on your linter errors. | [GitHub](https://github.com/) |
-| **Chess-CLI** | Play chess against a simple Go engine directly in your terminal. Because opening a browser is too much work. | [GitHub](https://github.com/) , [Live Demo](https://github.com/) |
-| **Personal Site** | This exact website. A minimal, fast space on the web built with Hugo and customized to fit my workflow. | [Source](https://github.com/) |
+| **Go-LSP** | Language Server Protocol implemented in Go, that includes **auto-completion**, **code actions**, **hover states**, and **diagnostics**.| [GitHub](https://github.com/MuradIsayev/go-lsp) |
+| **Task Tracker** | A terminal-native task manager built in Go. Uses an **interactive REPL** to organize project tasks and run **focus sessions** with audible countdown timers. | [GitHub](https://github.com/MuradIsayev/todo-tracker-go) |
+| **Cryptopals** | **Test-driven** Go solutions for real-world **cryptographic vulnerabilities**, exploring how modern cryptosystems are built and attacked. | [GitHub](https://github.com/MuradIsayev/cryptopals-challenges-go) |
+| **The Mind** | **Real-time multiplayer** web game built by a student dev-team. | [GitHub](https://github.com/MuradIsayev/TheMind-boardgame) |
+| **Portfolio** | Full-stack personal website with **Notion CMS** integration for blogging and a live **WebSockets guestbook**. | [Front](https://github.com/MuradIsayev/portfolio-front) , [Back](https://github.com/MuradIsayev/portfolio-back) |
 
-<!-- > **Note:** You can find all of my projects over on my [GitHub](https://github.com/MuradIsayev). -->
 
 *(You can find all of my projects on my [GitHub](https://github.com/MuradIsayev)).*
 
