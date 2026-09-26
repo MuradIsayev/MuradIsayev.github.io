@@ -32,8 +32,8 @@
 </div>
 
 <main>
-<p><a href="https://cryptopals.com"  target="_blank" rel="noopener noreferrer" >Cryptopals</a>
- is a set of cryptography challenges by the NCC Group. Maciej Ceglowski wrote a great blog about them <a href="https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/"  target="_blank" rel="noopener noreferrer" >here</a>
+<p><a href="https://cryptopals.com"  target="_blank" rel="noopener" >Cryptopals</a>
+ is a set of cryptography challenges by the NCC Group. Maciej Ceglowski wrote a great blog about them <a href="https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/"  target="_blank" rel="noopener" >here</a>
 . They&rsquo;ve been out for a while and I originally tried to work through them four years ago in high school. I got to about the second challenge and then was stumped. Now, four years and a CS degree later, I&rsquo;m back at it! They&rsquo;ve been a ton of fun to work on so far and definitely challenging. I&rsquo;ve &ldquo;known&rdquo; academically a lot of the attacks covered but implementing them is a different story.</p>
 <p>This is a walkthrough of how I&rsquo;ve approached the challenges in Set 1!</p>
 <h3 id="the-challenges-have-been-released-for-10-years-at-this-point-but-if-you-havent-worked-through-them-yet-there-are-spoilers-ahead">The challenges have been released for 10+ years at this point, but if you haven&rsquo;t worked through them yet there are spoilers ahead!</h3>
@@ -210,7 +210,7 @@ for keysize in range(2, 40):
 
 
 print(guessed_size)
-</code></pre><p>Next for each keysize, we&rsquo;ll splice together the ciphertexts and break it as single-character XOR! We have this helper function courtesy of <a href="https://www.geeksforgeeks.org/break-list-chunks-size-n-python/"  target="_blank" rel="noopener noreferrer" >geeks for geeks</a>
+</code></pre><p>Next for each keysize, we&rsquo;ll splice together the ciphertexts and break it as single-character XOR! We have this helper function courtesy of <a href="https://www.geeksforgeeks.org/break-list-chunks-size-n-python/"  target="_blank" rel="noopener" >geeks for geeks</a>
  that splits a list into chunks of length n. We&rsquo;ll also write a quick helper function using our logic from challenge 3 to score the likelihood a decoded plaintext is valid.</p>
 <pre tabindex="0"><code>def divide_chunks(c, n):
     for i in range(0, len(c), n):
@@ -265,7 +265,7 @@ key = plaintexts[-1][2]
     file = base64.b64decode(f.read())
 
 key = &#34;YELLOW SUBMARINE&#34;.encode(&#39;ascii&#39;)
-</code></pre><p>Let&rsquo;s write two functions to ECB encrypt/decrypt. Since I&rsquo;m using Pyca&rsquo;s <a href="https://cryptography.io/en/latest/"  target="_blank" rel="noopener noreferrer" >Cryptography library</a>
+</code></pre><p>Let&rsquo;s write two functions to ECB encrypt/decrypt. Since I&rsquo;m using Pyca&rsquo;s <a href="https://cryptography.io/en/latest/"  target="_blank" rel="noopener" >Cryptography library</a>
 , I need to pad the plaintext to a multiple of the blocksize. For this specific challenge our ciphertext is already a multiple of the blocksize, so we can leave that out for now.</p>
 <pre tabindex="0"><code>def ecb_encrypt(pt, key):
     cipher = Cipher(algorithms.AES(key), modes.ECB())
@@ -318,7 +318,7 @@ print(encrypted.hex())
   
   
   <hr/>
-  © <a href="https://muradisayev.me"  target="_blank" rel="noopener noreferrer" >Murad Isayev</a>
+  © <a href="https://muradisayev.me"  target="_blank" rel="noopener" >Murad Isayev</a>
  2026
   
   </footer>

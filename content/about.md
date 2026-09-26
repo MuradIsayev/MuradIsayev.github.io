@@ -7,29 +7,24 @@ Hey, my name is Murad Isayev, and this page is all about me.
 I'm a Master's student in Global Software Development at [Fulda University](https://www.hs-fulda.de/en/). I moved to Germany in October 2024, and I work at a bookstore to support myself.
 Technically speaking, [Go](https://go.dev/) is my primary programming language right now for learning and building. In the past, I have worked extensively with Javascript/TypeScript ([Node.js](https://nodejs.org/)) with the focus on both backend and frontend. I have also written some Java and C from project to project. Other than that, I use [NeoVim](https://neovim.io/) (proud face) as my text editor.
 
+---
 
 ## Work Experience
 
 ### Full Stack Developer @ [iLoyal](https://iloyal.app/)
 > *May 2023 – Oct 2024* &nbsp;•&nbsp; **Tech:** <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>React</kbd> <kbd>MySQL</kbd> <kbd>Redis</kbd>
 
-For a year and a half, I engineered a comprehensive **Restaurant POS platform**. I built out the core product infrastructure, including complete **authentication flows with 2FA** (SMS/Email), **role-based access (RBAC)**, real-time **sales dashboards**, and **zero-wait QR ordering** that completely digitized the dining experience.
+For a year and a half, I engineered a comprehensive **Restaurant POS platform**—building the core infrastructure for **2FA authentication** (SMS/Email), **role-based access (RBAC)**, real-time **sales dashboards**, and **zero-wait QR ordering**. Following a successful launch across Azerbaijan, **the platform expanded into the German market**, powering smart table management for partners like *Pano Ravensburg* and *Cafe Docia*.
 
-Following our successful launch across Azerbaijan, **the platform expanded into the German market**, bringing smart table management to partners like *Pano Ravensburg* and *Cafe Docia*.
-
----
 
 ### Software Developer Intern @ [UFAZ](https://www.ufaz.az/)
 > *Dec 2022 – May 2023* &nbsp;•&nbsp; **Tech:** <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>MySQL</kbd> <kbd>Docker</kbd> <kbd>Unit Testing</kbd>
 
-As part of a newly formed development team, I helped build **Olympus**—an in-house ERP and LMS system. I focused on automation by building an **attendance tracking system** linked to physical campus card readers, automated HR workflows with **dynamic Excel integrations**, and wrote comprehensive **Unit Tests** to ensure system reliability. 
+As part of a newly formed dev-team, I helped build **Olympus**—an in-house ERP and LMS system that runs daily Education and HR operations for **over 1,000 students and staff**. My work focused on automation and reliability: I built an **attendance tracking system** linked to physical campus card readers, automated HR workflows with **dynamic Excel integrations**, and wrote comprehensive **Unit Tests**.
 
-Today, these modules actively run the daily operations of the Education and HR departments, supporting **over 1,000 students and staff**.
-
----
 *(For the full corporate history, check my [LinkedIn](https://linkedin.com/in/muradisayev)).*
 
-
+---
 
 <!-- * **Product Launch & Delivery:** Played a key role in the **official platform launch**, contributing to multiple successful release cycles under strict deadlines. The system is now **widely used by cafes and restaurants across Azerbaijan**. -->
 <!-- * **German Expansion:** Drove the technical rollout into the **German market** (partnering with *Pano Ravensburg* and *Cafe Docia*), deploying **zero-wait QR ordering** and smart table management. -->
@@ -48,8 +43,6 @@ Today, these modules actively run the daily operations of the Education and HR d
 
 ## Projects
 
-I have done tons of projects over the years. Here are some of my favourites:
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
 | **Go-LSP** | Language Server Protocol implemented in Go, that includes **auto-completion**, **code actions**, **hover states**, and **diagnostics**.| [GitHub](https://github.com/MuradIsayev/go-lsp) |
@@ -61,6 +54,7 @@ I have done tons of projects over the years. Here are some of my favourites:
 
 *(You can find all of my projects on my [GitHub](https://github.com/MuradIsayev)).*
 
+---
 
 ## Beyond The Tech
 
